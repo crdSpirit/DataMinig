@@ -1,16 +1,5 @@
 ############################################################################
 
-# Created by: Prof. Valdecy Pereira, D.Sc.
-# UFF - Universidade Federal Fluminense (Brazil)
-# email:  valdecy.pereira@gmail.com
-# Course: Data Mining
-# Lesson: Decision Trees - C4.5
-
-# Citation: 
-# PEREIRA, V. (2018). Project: C4.5, File: Python-DM-Classification-02-C4.5.py, GitHub repository: <https://github.com/Valdecy/C4.5>
-
-############################################################################
-
 # Installing Required Libraries
 import pandas as pd
 import numpy  as np
